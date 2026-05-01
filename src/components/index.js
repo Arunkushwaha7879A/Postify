@@ -15,8 +15,8 @@ import Input from "./Input";
 export {
     Header,
     Footer,
-    Container,
     Logo,
+    Container,
     LogoutBtn,
     RTE,
     Signup,
@@ -25,6 +25,7 @@ export {
     PostForm,
     PostCard,
     AuthLayout, 
-    Input,
     Select,
+    Input,
+    
 }
